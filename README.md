@@ -2,6 +2,8 @@
 
 A clean and simple basketball scoreboard built with HTML, CSS, and JavaScript. Designed for quick and easy scorekeeping between two teams with a digital scoreboard style.
 
+🌐 **Live Demo**: [Scoreboard](https://basketballscoreboardsf.netlify.app/)
+
 ## 🚀 Features
 
 - Score tracking for Home and Guest teams
